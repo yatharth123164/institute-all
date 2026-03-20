@@ -1,12 +1,12 @@
 .navbar ul {
     display: flex;
-    gap: 60px;
+    gap: 15px;
     list-style-type: none;
     justify-content: center;
     font-size: 35px;
 }
 .banner{
-    height: 90vh;
+    height: 40vh;
     width: 100%;
     margin: 25px;
     padding: 25px;
